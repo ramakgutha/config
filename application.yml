@@ -1,1 +1,8 @@
-message: Hello Spring Cloud !!!!!!
+config:
+    db:
+        url: JDBC_URL
+        username: USERNAME
+        password: PASSWORD
+        driver: DRIVER
+
+    message: Hello Spring Cloud !!!!!!
